@@ -1,0 +1,3 @@
+source codesourcery-armgcc.sourceme
+export ARCH=arm
+export CROSS_COMPILE=arm-none-linux-gnueabi-

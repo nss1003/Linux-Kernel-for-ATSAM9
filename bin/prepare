@@ -1,0 +1,5 @@
+cd /opt/toolchain/arm/bin
+source linux_cross_compile.sourceme
+source bootloader_cross_compile.sourceme
+cd ..
+

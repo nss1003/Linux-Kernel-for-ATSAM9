@@ -1,0 +1,152 @@
+__________________________________________________________________________
+
+Sun Jun 16 23:39:33 CEST 2019
+
+Free Memory: 12719 kB
+Total Memory: 20288 kB
+
+4 Command Line Args:
+0:  -f
+1:  /tmp/178592.tmp/mergeModuleLax21.properties
+2:  -l
+3:  en
+
+java.class.path:
+    /tmp/178592.tmp/SubInstaller2.zip
+    /tmp/install.dir.3316/InstallerData
+    /tmp/install.dir.3316/InstallerData/installer.zip
+
+ZGUtil.CLASS_PATH:
+    /tmp/178592.tmp/SubInstaller2.zip
+    /tmp/install.dir.3316/InstallerData
+    /tmp/install.dir.3316/InstallerData/installer.zip
+
+sun.boot.class.path:
+    /tmp/install.dir.3316/Linux/resource/jre/lib/rt.jar
+    /tmp/install.dir.3316/Linux/resource/jre/lib/i18n.jar
+    /tmp/install.dir.3316/Linux/resource/jre/lib/sunrsasign.jar
+    /tmp/install.dir.3316/Linux/resource/jre/lib/jsse.jar
+    /tmp/install.dir.3316/Linux/resource/jre/lib/jce.jar
+    /tmp/install.dir.3316/Linux/resource/jre/lib/charsets.jar
+    /tmp/install.dir.3316/Linux/resource/jre/classes
+
+java.ext.dirs:
+    /tmp/install.dir.3316/Linux/resource/jre/lib/ext
+
+java.version                  == 1.5.0_09 (Java 2+)
+java.vm.name                  == Java HotSpot(TM) Server VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 1.5.0_09-b03
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.5
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 49.0
+java.compiler                 == null
+java.home                     == /tmp/install.dir.3316/Linux/resource/jre
+java.io.tmpdir                == /tmp
+os.name                       == Linux
+os.arch                       == i386
+os.version                    == 4.18.0-15-generic
+path.separator                == :
+file.separator                == /
+file.encoding                 == UTF-8
+user.name                     == silvere
+user.home                     == /home/silvere
+user.dir                      == /tmp/178592.tmp
+user.language                 == de
+user.region                   == null
+__________________________________________________________________________
+
+Install Begin: Sun Jun 16 23:39:29 CEST 2019
+Install End: Sun Jun 16 23:39:32 CEST 2019
+
+Installed by InstallAnywhere 9.0 Enterprise Build 3428, by Macrovision
+
+
+User Interactions
+-----------------
+
+
+Summary
+-------
+
+Installation: Successful.
+
+20 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Check Disk Space:         /opt/toolchain/arm
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 93.701.192; Free Disk Space: 111.106.191.360
+
+Install Directory:        /opt/toolchain/arm/jre
+                          Status: SUCCESSFUL
+
+Install JRE:              /opt/toolchain/arm/jre
+                          Status: SUCCESSFUL
+
+Install Directory:        /opt/toolchain/arm/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /opt/toolchain/arm/uninstall/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /opt/toolchain/arm/uninstall/Uninstall_Sourcery_Gxx_JVM/
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      Sourcery G++ JVM (Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+
+Install File:             /opt/toolchain/arm/uninstall/Uninstall_Sourcery_Gxx_JVM/Uninstall_Sourcery_Gxx_JVM.lax
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      Sourcery G++ JVM (Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Install Directory:        /opt/toolchain/arm/uninstall/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /opt/toolchain/arm/uninstall/features/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install File:             /opt/toolchain/arm/uninstall/features/JVM.key
+                          Status: SUCCESSFUL
+
+Install Directory:        /opt/toolchain/arm/uninstall/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install File:             /opt/toolchain/arm/uninstall/create-links-iamm-jvm_files-arm-2009q1-203-arm-none-linux-gnueabi
+                          Status: SUCCESSFUL
+
+Install File:             /opt/toolchain/arm/uninstall/remove-links-iamm-jvm_files-arm-2009q1-203-arm-none-linux-gnueabi
+                          Status: SUCCESSFUL
+
+
